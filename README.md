@@ -1,4 +1,8 @@
-
+Intro:
+  Weather app is a cross-platform (android & Ios) app using Flutter with Dart language.
+  API and Networking with Json Package is used.
+  Function as by access current location or desired give your weather detail from (Website) API.
+  
 This project is combination of these things.
 * asynchronous tasks.
 * async and await.
