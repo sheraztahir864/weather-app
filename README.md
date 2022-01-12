@@ -1,16 +1,13 @@
-# clima
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* asynchronous tasks.
+* async and await.
+* Futures and how to work with them.
+* network with the Dart http package.
+* APIs to get data from the internet.
+* JSONs Dart convert package.
+* pass data forwards and backwards between screens using the Navigator.
+* handle exceptions in Dart using try/catch/throw.
+* lifecycle of Stateful Widgets and how to override them.
+* Geolocator package to get live location data for both iOS and Android.
+* TextField Widget to take user input.
